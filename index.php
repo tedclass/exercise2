@@ -1,6 +1,7 @@
 <html>
 <head>
-<h1> Hello World
+  <h1> Hello World </h1>
+  <titel> Welcome</title>
 
 </head>
 
