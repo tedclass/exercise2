@@ -1,7 +1,7 @@
 <html>
 <head>
   <h1> Hello World </h1>
-  <titel> Welcome</title>
+  <title> Welcome</title>
 
 </head>
 
