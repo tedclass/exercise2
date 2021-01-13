@@ -1,7 +1,7 @@
 <html>
 <head>
   <h1> Hello World </h1>
-  <title> <h2>Welcome</h2></title>
+  <title> <h2>This goes to the tab name/ page name</h2></title>
 
 </head>
 
